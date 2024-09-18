@@ -2,9 +2,9 @@
  git clone https://github.com/lancip01/Automationt-Tools.git
 ```
 ```bash
- cd Automationt-Tools /n
+ cd Automationt-Tools
  ```
 ```bash
- chmod +x . or chmod +x one_liner.sh, chmod +x find_domain.sh /n
+ chmod +x . or chmod +x one_liner.sh, chmod +x find_domain.sh
  ```
 
